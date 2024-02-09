@@ -1,0 +1,28 @@
+.navBar{
+    width: 100%;
+    height: 15vh;
+    background-color:black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 5vw;
+}
+.logo-Container{
+    width: 5vw;
+    height: 100%;
+}
+
+.logo-Container .logo{
+    width: 100%;
+}
+
+ul{
+    display: flex;
+    gap: 30px;
+}
+
+.linkTag{
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+}
